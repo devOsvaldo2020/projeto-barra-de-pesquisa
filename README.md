@@ -2,4 +2,4 @@
 
 projetinho barra de pesquisa. 
 
-link github.page:  
+link github.page:  https://devosvaldo2020.github.io/projeto-barra-de-pesquisa/
